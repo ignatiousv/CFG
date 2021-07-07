@@ -1,0 +1,2 @@
+# CFG
+Django project
